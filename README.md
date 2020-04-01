@@ -11,7 +11,9 @@ source of method :
 - https://arxiv.org/pdf/2003.09909.pdf
 - https://fpmag.net/wp-content/uploads/2020/01/Imperial-2019-nCoV-transmissibility.pdf?fbclid=IwAR2JLoNIK1CffTrBzcfILeGafEDKYYM4KMr9ASfxlcO02lIZdYGxvgPnbfU
 
-This notebook presents a simple "study", more like as an exercise, of how a data conciliation can be performed on Epidemiology models. This kind of approach can be adapted for other cases that have Dynamical Systems as mathematical model Contents :
+This notebook presents a simple "study", more like as an exercise, of how a data conciliation can be performed on Epidemiology models. This kind of approach can be adapted for other cases that have Dynamical Systems as mathematical model 
+
+Contents :
 
 - Importing library
 - Loading Data from :
