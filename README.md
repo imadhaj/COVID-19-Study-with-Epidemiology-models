@@ -1,4 +1,4 @@
-# COVID-19-Study-with-Epidemiology-models
+# COVID-19 Study with Epidemiology models
 
 In this project, we are going to Study COVID-19 with Epidemiology models, based on 3 model:
 - SIR model 
